@@ -1,0 +1,9 @@
+{
+  "Sorbet # typed: level": {
+		"prefix": "Sorbet typed",
+		"body": [
+			"# typed: ${1|ignore,false,true,strict,strong|}"
+		],
+		"description": "Sorbet # typed: level comment."
+	}
+}

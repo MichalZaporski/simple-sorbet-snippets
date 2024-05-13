@@ -1,0 +1,20 @@
+{
+  "name": "simple-sorbet-snippets",
+  "displayName": "Simple Sorbet Snippets",
+  "description": "Simple snippets for Sorbet.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "ruby",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
